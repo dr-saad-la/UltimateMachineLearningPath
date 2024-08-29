@@ -1,4 +1,4 @@
-<img src="imgs/logo.jpg" alt="Logo" width="100%"/>
+<img src="_imgs/logo.jpg" alt="Logo" width="100%"/>
 
 # UltimateMachineLearningPath
 
