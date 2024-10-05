@@ -1,0 +1,13 @@
+{
+  "TRAIN_DATA": "https://raw.githubusercontent.com/qcversity/ml-datasets/refs/heads/main/data/adult.train",
+  "TEST_DATA": "https://raw.githubusercontent.com/qcversity/ml-datasets/refs/heads/main/data/adult.test",
+  "INFO_DATA": "https://raw.githubusercontent.com/qcversity/ml-datasets/refs/heads/main/data/adult.info.txt",
+  "PROCESSED_TRAIN_DATA": "data/processed_train.csv",
+  "PROCESSED_TEST_DATA": "data/processed_test.csv",
+  "MODEL_SAVE_PATH": "models/adult_model.pkl",
+  "MODEL_LOG_PATH": "logs/model_training.log",
+  "METRICS_SAVE_PATH": "metrics/adult_model_metrics.json",
+  "PREDICTIONS_SAVE_PATH": "predictions/adult_predictions.csv",
+  "RANDOM_SEED": 0,
+  "NUM_FOLDS": 5
+}
